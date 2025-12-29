@@ -9,9 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.0.7",
+    "@ai-sdk/google": "^2.0.46",
+    "@ai-sdk/openai": "^2.0.77",
+    "@ai-sdk/react": "^2.0.115",
+    "@mux/mux-node": "^12.8.1",
+    "@mux/mux-player-react": "^3.10.1",
+    "ai": "^5.0.107",
+    "next": "^16.0.10",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "zod": "^4.1.13"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
