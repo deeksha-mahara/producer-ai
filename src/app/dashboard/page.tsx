@@ -3,7 +3,6 @@
 import { useState } from 'react';
 import VideoPlayer from '@/components/VideoPlayer';
 
-// MOCK DATA: Expanded to 6 items to make the studio look busy
 const ASSETS = [
   {
     id: '1',
